@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int grade_input()
+double grade_input()
 {
-
+	return 0.0;
 }
