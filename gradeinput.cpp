@@ -2,6 +2,7 @@
 using namespace std;
 double grade_input()
 {
+
 	double grade;
 	cout << "\nenter the grade of the student; ";
 	cin >> grade;
