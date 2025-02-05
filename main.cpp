@@ -82,7 +82,7 @@ int main()
 				string student;
 				cout << "What is the students name: ";
 				getline(cin, student);
-				student[row];
+				students[row];
 				for (int col = 0; col < gradenumber; col++)
 				{
 					int grade = grade_input();
